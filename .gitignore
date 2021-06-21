@@ -80,7 +80,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
-
+db_password = 'password'
 # pyenv
 .python-version
 
@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#config.py
+
 db_password = 'password'
